@@ -1,3 +1,5 @@
+**Note:** `couch_peruser` is now included in the core [apache/couchdb](https://github.com/apache/couchdb/) monorepo in [src/couchdb](https://github.com/apache/couchdb/tree/master/src/couch_peruser). This repo is (consequently) no longer maintained.
+
 # couch_peruser [![Build Status](https://travis-ci.org/apache/couchdb-peruser.svg?branch=master)](https://travis-ci.org/apache/couchdb-peruser)
 
 couch_peruser is a CouchDB daemon that ensures that a private per-user
